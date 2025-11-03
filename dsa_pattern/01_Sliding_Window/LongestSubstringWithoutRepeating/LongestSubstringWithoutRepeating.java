@@ -1,6 +1,7 @@
+package LongestSubstringWithoutRepeating;
 public class LongestSubstringWithoutRepeating {
 
     public static void main(String[] args) {
-        System.out.println("Hello");
+        System.out.println("Hello"); 
     }
 }
